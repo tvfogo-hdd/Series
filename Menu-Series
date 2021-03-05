@@ -204,9 +204,37 @@
 <fanart></fanart>
 </channel>
 <channel>
-<name>[COLOR white][B]WandaVision[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/GV7YKOK.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Series/main/WandaVision/Menu</externallink>
+<name>[COLOR white][B]DCs Legends of Tomorrow[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/rhYzzJi.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Series/main/Legends_Of_Tomorrow/Menu</externallink>
+<info></info>
+<fanart></fanart>
+</channel>
+<channel>
+<name>[COLOR white][B]Lost[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/yEjqXOp.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Series/main/Lost/Menu</externallink>
+<info></info>
+<fanart></fanart>
+</channel>
+<channel>
+<name>[COLOR white][B]Lucife[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/2U7Iy5v.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Series/main/Lucifer/Menu</externallink>
+<info></info>
+<fanart></fanart>
+</channel>
+<channel>
+<name>[COLOR white][B]Luna Nera[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/IgT2yXu.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Series/main/Luna_Nera/Menu</externallink>
+<info></info>
+<fanart></fanart>
+</channel>
+<channel>
+<name>[COLOR white][B]MacGyver[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oDXTX7i.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Series/main/MacGyver/Menu</externallink>
 <info></info>
 <fanart></fanart>
 </channel>
